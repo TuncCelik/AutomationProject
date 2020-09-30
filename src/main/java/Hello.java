@@ -4,5 +4,8 @@ public class Hello {
         // more changes are comings
         // I am ready to commit this
 
+        // EU3 AWESOME!!!
+        // EU3 LEARNING HOW TO USE GITHUB
+
     }
 }
